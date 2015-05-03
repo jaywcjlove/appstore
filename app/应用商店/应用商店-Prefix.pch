@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '应用商店' target in the '应用商店' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
